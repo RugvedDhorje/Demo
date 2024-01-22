@@ -1,4 +1,4 @@
 # Demo
 my first git repository
 <br>
-Author-Rugved Dhorje
+Author-Rugved Ashok Dhorje
